@@ -11,6 +11,8 @@ cassiopeia = "^4.0.8"
 python-dotenv = "^0.10.3"
 pylint = "^2.4.4"
 black = "^19.10b0"
+numpy = "^1.18.0"
+pandas = "^0.25.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
